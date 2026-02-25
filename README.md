@@ -1,2 +1,2 @@
 # Lab_05
-proj
+create folder for images and name it "images"
